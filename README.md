@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CatGirl5773
-- 👀 I’m interested in coding with HTML, CSS, and JS!
+- 👀 I’m interested in coding with HTML, CSS, JS, and Python
 - 🌱 I’m currently learning web development using the above mentioned languages of coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
